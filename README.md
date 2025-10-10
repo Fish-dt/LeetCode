@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Fish-dt/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Fish-dt/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Fish-dt/LeetCode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Sorting
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Fish-dt/LeetCode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Fish-dt/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
