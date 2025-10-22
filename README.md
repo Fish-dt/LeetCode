@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Fish-dt/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Fish-dt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Fish-dt/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Fish-dt/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Fish-dt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Fish-dt/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Fish-dt/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Fish-dt/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fish-dt/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Fish-dt/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Fish-dt/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fish-dt/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Fish-dt/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Linked List
 |  |
 | ------- |
