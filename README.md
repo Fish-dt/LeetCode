@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Fish-dt/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Fish-dt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2169-simple-bank-system](https://github.com/Fish-dt/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Fish-dt/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Fish-dt/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Fish-dt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2169-simple-bank-system](https://github.com/Fish-dt/LeetCode/tree/master/2169-simple-bank-system) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Fish-dt/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Two Pointers
 |  |
@@ -236,9 +238,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fish-dt/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Fish-dt/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Fish-dt/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2169-simple-bank-system](https://github.com/Fish-dt/LeetCode/tree/master/2169-simple-bank-system) |
 ## Simulation
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/Fish-dt/LeetCode/tree/master/2169-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Fish-dt/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
