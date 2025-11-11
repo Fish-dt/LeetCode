@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Fish-dt/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Fish-dt/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Fish-dt/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0474-ones-and-zeroes](https://github.com/Fish-dt/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Fish-dt/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1250-longest-common-subsequence](https://github.com/Fish-dt/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Fish-dt/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Fish-dt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fish-dt/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/Fish-dt/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Fish-dt/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Fish-dt/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Fish-dt/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Fish-dt/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Fish-dt/LeetCode/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/Fish-dt/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Fish-dt/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/Fish-dt/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Fish-dt/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
