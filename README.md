@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Fish-dt/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Fish-dt/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Fish-dt/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Fish-dt/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Fish-dt/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2169-simple-bank-system](https://github.com/Fish-dt/LeetCode/tree/master/2169-simple-bank-system) |
