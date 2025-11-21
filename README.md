@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Fish-dt/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Fish-dt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Fish-dt/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Fish-dt/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Fish-dt/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Fish-dt/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Fish-dt/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Fish-dt/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Fish-dt/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Fish-dt/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Fish-dt/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Fish-dt/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Fish-dt/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Fish-dt/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Fish-dt/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Fish-dt/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Fish-dt/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Fish-dt/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Fish-dt/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Fish-dt/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Fish-dt/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Monotonic Stack
 |  |
