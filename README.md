@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Fish-dt/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Fish-dt/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Fish-dt/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Fish-dt/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Fish-dt/LeetCode/tree/master/0070-climbing-stairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Fish-dt/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Fish-dt/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fish-dt/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Fish-dt/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Fish-dt/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Fish-dt/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fish-dt/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Fish-dt/LeetCode/tree/master/0062-unique-paths) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Fish-dt/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
