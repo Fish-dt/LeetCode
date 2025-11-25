@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Fish-dt/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Fish-dt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Fish-dt/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Fish-dt/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Fish-dt/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Fish-dt/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Fish-dt/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Fish-dt/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Fish-dt/LeetCode/tree/master/0070-climbing-stairs) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Fish-dt/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Fish-dt/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Fish-dt/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Fish-dt/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
