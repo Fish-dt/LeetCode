@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Fish-dt/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Fish-dt/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Fish-dt/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Fish-dt/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Fish-dt/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Fish-dt/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Fish-dt/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Fish-dt/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Fish-dt/LeetCode/tree/master/0338-counting-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Fish-dt/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Fish-dt/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Fish-dt/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
