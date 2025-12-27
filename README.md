@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Fish-dt/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Fish-dt/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Fish-dt/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Fish-dt/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fish-dt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Fish-dt/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Fish-dt/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Fish-dt/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Fish-dt/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Fish-dt/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Fish-dt/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Fish-dt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Fish-dt/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Fish-dt/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Fish-dt/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Fish-dt/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Fish-dt/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Fish-dt/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Fish-dt/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Fish-dt/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Fish-dt/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Fish-dt/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Fish-dt/LeetCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Fish-dt/LeetCode/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Fish-dt/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Fish-dt/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Fish-dt/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Fish-dt/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fish-dt/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Fish-dt/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Fish-dt/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fish-dt/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Fish-dt/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -518,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Fish-dt/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Fish-dt/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Fish-dt/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Fish-dt/LeetCode/tree/master/0338-counting-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Fish-dt/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Fish-dt/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
