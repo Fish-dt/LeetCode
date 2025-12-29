@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Fish-dt/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fish-dt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0756-pyramid-transition-matrix](https://github.com/Fish-dt/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Fish-dt/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Fish-dt/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Fish-dt/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Fish-dt/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Fish-dt/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Fish-dt/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0756-pyramid-transition-matrix](https://github.com/Fish-dt/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Fish-dt/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1250-longest-common-subsequence](https://github.com/Fish-dt/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Fish-dt/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Fish-dt/LeetCode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Fish-dt/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Fish-dt/LeetCode/tree/master/0212-word-search-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/Fish-dt/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Fish-dt/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Fish-dt/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Fish-dt/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Fish-dt/LeetCode/tree/master/0338-counting-bits) |
+| [0756-pyramid-transition-matrix](https://github.com/Fish-dt/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Fish-dt/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Fish-dt/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Fish-dt/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
